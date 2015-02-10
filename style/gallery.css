@@ -1,0 +1,63 @@
+﻿.fakescroller, .scrollercaption {
+    float: left;
+    margin-left: 1%;
+}
+
+.scrollercaption 
+{
+   text-align: center;
+   display:inline-block;
+}
+
+.gallery {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    height: 760px;
+}
+
+.pageHeader {
+    width: 250px;
+    height: 80px;
+}
+
+.galleryWrapperLines {
+    border-top: solid 1px;
+    width: 98%;
+}
+
+.topGalleryWrapperLines {
+    margin-top: 10px;
+}
+
+.galleryWrapper {
+    width: 5000px;
+    height: 600px;
+    padding-bottom: 9px;
+    padding-top: 30px;
+}
+
+.captionWrapper {
+    width: 5000px;
+    height: 17px;
+    padding-bottom: 10px;
+}
+
+.scrollleft {
+    height: 600px;
+    width: 40%;
+    z-index: 100;
+    position: absolute;
+    background: url(../style/background/transparent.gif) repeat;
+	cursor:pointer;
+}
+
+.scrollright {
+    height: 600px;
+    width: 40%;
+    margin-left: 60%;
+    z-index: 100;
+    position: absolute;
+    background: url(../style/background/transparent.gif) repeat;
+	cursor:pointer;
+}

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+	maxImageWidth="975"
+	maxImageHeight="600"
+	imageQuality="99"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	showOpenButton="false"
+	showExpandButton="false"
+	enableDirectLinks="false"
+	randomizeImages="false"
+	galleryTitlePosition="NONE"
+	showPreloader="false"
+	enableAutoPlay="false"
+	showAutoPlayStatus="false"
+	enableLooping="true"
+	autoPlayOnLoad="false"
+	imageTransitionType="FADE"
+	imagePreloading="NEXT"
+	showImageNav="false"
+	useThumbDots="false"
+	maxThumbColumns="0"
+	maxThumbRows="0"
+	showSmallThumbs="false"
+	showLargeThumbs="false"
+	captionPosition="NONE"
+	showSplashPage="NEVER"
+	showThumbsButton="false"
+	screenMode="SMALL"
+	showSmallThumbsButton="false"
+	indexPageName="index.html"
+  imageClickMode="NONE"
+  firstImageIndex="3"
+  imageScaleMode="NONE"
+  showImageOverlay="NEVER"
+  addSEOContent="true"
+>
+ <image imageURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 4.jpg"
+	
+	linkURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 4.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 4.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA['Una Burke' look-book AW2013]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 3.jpg"
+	
+	linkURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 3.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 3.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 7.jpg"
+	
+	linkURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 7.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 7.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 6.jpg"
+	
+	linkURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 6.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 6.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 5.jpg"
+	
+	linkURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 5.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 5.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 2.jpg"
+	
+	linkURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 2.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 2.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 1.jpg"
+	
+	linkURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 1.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 1.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/I Clown by Elena Pirogova 2.jpg"
+	
+	linkURL="elena pirogova fashion/I Clown by Elena Pirogova 2.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/I Clown by Elena Pirogova 2.jpg">
+    <title><![CDATA[401]]></title>
+    <caption><![CDATA[I Clown]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/I Clown by Elena Pirogova 3.jpg"
+	
+	linkURL="elena pirogova fashion/I Clown by Elena Pirogova 3.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/I Clown by Elena Pirogova 3.jpg">
+    <title><![CDATA[397]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/I Clown by Elena Pirogova 1.jpg"
+	
+	linkURL="elena pirogova fashion/I Clown by Elena Pirogova 1.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/I Clown by Elena Pirogova 1.jpg">
+    <title><![CDATA[401]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/I Clown by Elena Pirogova 4.jpg"
+	
+	linkURL="elena pirogova fashion/I Clown by Elena Pirogova 4.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/I Clown by Elena Pirogova 4.jpg">
+    <title><![CDATA[453]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Art Deco for HighLigts magazine by Elena Pirogova 1.jpg"
+	
+	linkURL="elena pirogova fashion/Art Deco for HighLigts magazine by Elena Pirogova 1.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Art Deco for HighLigts magazine by Elena Pirogova 1.jpg">
+    <title><![CDATA[482]]></title>
+    <caption><![CDATA[Art Deco for HighLigts magazine]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Art Deco for HighLigts magazine by Elena Pirogova 2.jpg"
+	
+	linkURL="elena pirogova fashion/Art Deco for HighLigts magazine by Elena Pirogova 2.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Art Deco for HighLigts magazine by Elena Pirogova 2.jpg">
+    <title><![CDATA[482]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Art Deco for HighLigts magazine by Elena Pirogova .jpg"
+	
+	linkURL="elena pirogova fashion/Art Deco for HighLigts magazine by Elena Pirogova .jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Art Deco for HighLigts magazine by Elena Pirogova .jpg">
+    <title><![CDATA[482]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Art Deco for HighLigts magazine by Elena Pirogova 3.jpg"
+	
+	linkURL="elena pirogova fashion/Art Deco for HighLigts magazine by Elena Pirogova 3.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Art Deco for HighLigts magazine by Elena Pirogova 3.jpg">
+    <title><![CDATA[482]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Katerina Smutok by Elena Pirogova 4.jpg"
+	
+	linkURL="elena pirogova fashion/Katerina Smutok by Elena Pirogova 4.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Katerina Smutok by Elena Pirogova 4.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Katerina Smutok by Elena Pirogova 2.jpg"
+	
+	linkURL="elena pirogova fashion/Katerina Smutok by Elena Pirogova 2.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Katerina Smutok by Elena Pirogova 2.jpg">
+    <title><![CDATA[462]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Katerina Smutok by Elena Pirogova 1.jpg"
+	
+	linkURL="elena pirogova fashion/Katerina Smutok by Elena Pirogova 1.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Katerina Smutok by Elena Pirogova 1.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Katerina Smutok by Elena Pirogova 3.jpg"
+	
+	linkURL="elena pirogova fashion/Katerina Smutok by Elena Pirogova 3.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Katerina Smutok by Elena Pirogova 3.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/My Trousseau by Elena Pirogova 5.jpg"
+	
+	linkURL="elena pirogova fashion/My Trousseau by Elena Pirogova 5.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/My Trousseau by Elena Pirogova 5.jpg">
+    <title><![CDATA[438]]></title>
+    <caption><![CDATA['My Trousseau' look-book]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/My Trousseau by Elena Pirogova 4.jpg"
+	
+	linkURL="elena pirogova fashion/My Trousseau by Elena Pirogova 4.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/My Trousseau by Elena Pirogova 4.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/My Trousseau by Elena Pirogova 1.jpg"
+	
+	linkURL="elena pirogova fashion/My Trousseau by Elena Pirogova 1.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/My Trousseau by Elena Pirogova 1.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/My Trousseau by Elena Pirogova 2.jpg"
+	
+	linkURL="elena pirogova fashion/My Trousseau by Elena Pirogova 2.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/My Trousseau by Elena Pirogova 2.jpg">
+    <title><![CDATA[846]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/My Trousseau by Elena Pirogova 3.jpg"
+	
+	linkURL="elena pirogova fashion/My Trousseau by Elena Pirogova 3.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/My Trousseau by Elena Pirogova 3.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Anna Lee by Elena Pirogova 2.jpg"
+	
+	linkURL="elena pirogova fashion/Anna Lee by Elena Pirogova 2.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Anna Lee by Elena Pirogova 2.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Anna Lee by Elena Pirogova 1.jpg"
+	
+	linkURL="elena pirogova fashion/Anna Lee by Elena Pirogova 1.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Anna Lee by Elena Pirogova 1.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Anna Lee by Elena Pirogova 3.jpg"
+
+	linkURL="elena pirogova fashion/Anna Lee by Elena Pirogova 3.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Anna Lee by Elena Pirogova 3.jpg">
+    <title><![CDATA[900]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Anna Lee by Elena Pirogova 4.jpg"
+	
+	linkURL="elena pirogova fashion/Anna Lee by Elena Pirogova 4.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Anna Lee by Elena Pirogova 4.jpg">
+    <title><![CDATA[580]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Anna Lee by Elena Pirogova 5.jpg"
+	
+	linkURL="elena pirogova fashion/Anna Lee by Elena Pirogova 5.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Anna Lee by Elena Pirogova 5.jpg">
+    <title><![CDATA[582]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Una Burke AW2012 by Elena Pirogova 1.jpg"
+	
+	linkURL="elena pirogova fashion/Una Burke AW2012 by Elena Pirogova 1.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Una Burke AW2012 by Elena Pirogova 1.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA['Una Burke' look-book AW2012]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Una Burke AW2012 by Elena Pirogova 2.jpg"
+	
+	linkURL="elena pirogova fashion/Una Burke AW2012 by Elena Pirogova 2.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Una Burke AW2012 by Elena Pirogova 2.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Una Burke AW2012 by Elena Pirogova 4.jpg"
+	
+	linkURL="elena pirogova fashion/Una Burke AW2012 by Elena Pirogova 4.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Una Burke AW2012 by Elena Pirogova 4.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/My Trousseau by Elena Pirogova 6.jpg"
+	
+	linkURL="elena pirogova fashion/My Trousseau by Elena Pirogova 6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Charlie/Pictures/web-site/My Trousseau by Elena Pirogova 6.jpg">
+    <title><![CDATA[900]]></title>
+    <caption><![CDATA['My Trousseau' look-book]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Mermaid by Elena Pirogova 1.jpg"
+	
+	linkURL="elena pirogova fashion/Mermaid by Elena Pirogova 1.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Mermaid by Elena Pirogova 1.jpg">
+    <title><![CDATA[588]]></title>
+    <caption><![CDATA['Mermaid']]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Mermaid by Elena Pirogova 2.jpg"
+
+	linkURL="elena pirogova fashion/Mermaid by Elena Pirogova 2.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Mermaid by Elena Pirogova 2.jpg">
+    <title><![CDATA[588]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Mermaid by Elena Pirogova 3.jpg"
+	
+	linkURL="elena pirogova fashion/Mermaid by Elena Pirogova 3.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Mermaid by Elena Pirogova 3.jpg">
+    <title><![CDATA[588]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Mermaid by Elena Pirogova 4.jpg"
+
+	linkURL="elena pirogova fashion/Mermaid by Elena Pirogova 4.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Mermaid by Elena Pirogova 4.jpg">
+    <title><![CDATA[441]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+ 
+  <image imageURL="elena pirogova fashion/Mermaid by Elena Pirogova 6.jpg"
+	
+	linkURL="elena pirogova fashion/Mermaid by Elena Pirogova 6.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Mermaid by Elena Pirogova 6.jpg">
+    <title><![CDATA[900]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+ <image imageURL="elena pirogova fashion/Mermaid by Elena Pirogova 5.jpg"
+	
+	linkURL="elena pirogova fashion/Mermaid by Elena Pirogova 5.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Mermaid by Elena Pirogova 5.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image> 
+ <image imageURL="elena pirogova fashion/Cabriolet by Elena Pirogova 1.jpg"
+
+	linkURL="elena pirogova fashion/Cabriolet by Elena Pirogova 1.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Cabriolet by Elena Pirogova 1.jpg">
+    <title><![CDATA[900]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Cabriolet by Elena Pirogova 2.jpg"
+	
+	linkURL="elena pirogova fashion/Cabriolet by Elena Pirogova 2.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Cabriolet by Elena Pirogova 2.jpg">
+    <title><![CDATA[900]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Cabriolet by Elena Pirogova 3.jpg"
+	
+	linkURL="elena pirogova fashion/Cabriolet by Elena Pirogova 3.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Cabriolet by Elena Pirogova 3.jpg">
+    <title><![CDATA[900]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova fashion/Zhanna.jpg"
+	linkURL="elena pirogova fashion/Zhanna.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova fashion/Zhanna.jpg">
+    <title><![CDATA[901]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

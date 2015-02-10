@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /config/
+Disallow: /jbcore/
+Disallow: /headshots/jbcore/
