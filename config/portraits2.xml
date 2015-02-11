@@ -34,7 +34,7 @@
 	showThumbsButton="false"
 	screenMode="SMALL"
 	showSmallThumbsButton="false"
-	indexPageName="index.html"
+	indexPageName="portraits.html"
   imageClickMode="NONE"
   firstImageIndex="3"
   imageScaleMode="NONE"

@@ -124,6 +124,7 @@
     <Content Include="elena pirogova portraits\Paul Smith.jpg" />
     <Content Include="elena pirogova portraits\Simonetta Ravizza.jpg" />
     <Content Include="about.html" />
+    <Content Include="js\jquery.ui.widget.1.11.2.min.js" />
     <Content Include="portraits.html" />
     <Content Include="index.html" />
     <Content Include="favicon.ico" />

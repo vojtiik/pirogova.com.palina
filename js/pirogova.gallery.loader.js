@@ -234,7 +234,7 @@
 
             gallery.control.hide();
             gallery.gallery.setGallerySize(width, _op.defaultImageHeight);
-            gallery.control.finish().fadeIn(200);
+            gallery.control.finish().fadeIn(800);
 
             // set gallery caption width and text
             methods._updateCaptionControl(caption, imageinfo.caption, width);

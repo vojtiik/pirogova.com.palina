@@ -34,11 +34,12 @@
 	showThumbsButton="false"
 	screenMode="SMALL"
 	showSmallThumbsButton="false"
-	indexPageName="index.html"
+	indexPageName="portraits.html"
   imageClickMode="NONE"
   firstImageIndex="2"
   imageScaleMode="NONE"
   showImageOverlay="NEVER"
+   addSEOContent="true"
 >
 
  <image imageURL="elena pirogova portraits/Paul Smith.jpg"
