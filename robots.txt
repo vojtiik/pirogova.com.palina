@@ -1,5 +1,7 @@
 User-agent: Googlebot-Image
 Allow: /
+Allow: /elena pirogova portraits/
+Allow: /elena pirogova fashion/
 
 User-agent: *
 Disallow: /admin/
