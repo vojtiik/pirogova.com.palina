@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<juiceboxgallery 
+<juiceboxgallery
 	maxImageWidth="975"
 	maxImageHeight="600"
 	imageQuality="99"
@@ -41,13 +41,14 @@
    addSEOContent="true"
 >
 
- <image imageURL="elena pirogova portraits/Paul Smith.jpg"
- linkURL="elena pirogova portraits/Paul Smith.jpg"
- linkTarget="_blank"
- sourcePath="elena pirogova portraits/Paul Smith.jpg">
+
+  <image imageURL="elena pirogova portraits/Paul Smith.jpg"
+  linkURL="elena pirogova portraits/Paul Smith.jpg"
+  linkTarget="_blank"
+  sourcePath="elena pirogova portraits/Paul Smith.jpg">
     <title><![CDATA[419]]></title>
     <caption><![CDATA[Paul Smith]]></caption>
-  </image> 
+  </image>
   <image imageURL="elena pirogova portraits/Cavalli Roberto.jpg"
  linkURL="elena pirogova portraits/Cavalli Roberto.jpg"
  linkTarget="_blank"
@@ -69,41 +70,41 @@
     <title><![CDATA[428]]></title>
     <caption><![CDATA[Elie Saab]]></caption>
   </image>
-   <image imageURL="elena pirogova portraits/Cavalli Eva.jpg"
+  <image imageURL="elena pirogova portraits/Cavalli Eva.jpg"
 linkURL="elena pirogova portraits/Cavalli Eva.jpg"
- linkTarget="_blank"
- sourcePath="elena pirogova portraits/Cavalli Eva.jpg">
+linkTarget="_blank"
+sourcePath="elena pirogova portraits/Cavalli Eva.jpg">
     <title><![CDATA[900]]></title>
     <caption><![CDATA[Eva Cavalli]]></caption>
   </image>
-  
-   <image imageURL="elena pirogova portraits/Candy Dulfer.jpg"
- linkURL="elena pirogova portraits/Candy Dulfer.jpg"
- linkTarget="_blank"
- sourcePath="elena pirogova portraits/Candy Dulfer.jpg">
+
+  <image imageURL="elena pirogova portraits/Candy Dulfer.jpg"
+linkURL="elena pirogova portraits/Candy Dulfer.jpg"
+linkTarget="_blank"
+sourcePath="elena pirogova portraits/Candy Dulfer.jpg">
     <title><![CDATA[428]]></title>
     <caption><![CDATA[Candy Dulfer, musician]]></caption>
   </image>
-      <image imageURL="elena pirogova portraits/Claudio Silvestrin.jpg"
+  <image imageURL="elena pirogova portraits/Claudio Silvestrin.jpg"
  linkURL="elena pirogova portraits/Claudio Silvestrin.jpg"
  linkTarget="_blank"
  sourcePath="elena pirogova portraits/Claudio Silvestrin.jpg">
     <title><![CDATA[400]]></title>
     <caption><![CDATA[Claudio Silvestrin, architect]]></caption>
   </image>
-   
-   <image imageURL="elena pirogova portraits/Edward Capel Cure.jpg"
- linkURL="elena pirogova portraits/Edward Capel Cure.jpg"
- linkTarget="_blank"
- sourcePath="elena pirogova portraits/Edward Capel Cure.jpg">
+
+  <image imageURL="elena pirogova portraits/Edward Capel Cure.jpg"
+linkURL="elena pirogova portraits/Edward Capel Cure.jpg"
+linkTarget="_blank"
+sourcePath="elena pirogova portraits/Edward Capel Cure.jpg">
     <title><![CDATA[400]]></title>
     <caption><![CDATA[Edward Capel Cure, banker]]></caption>
   </image>
-  
-   <image imageURL="elena pirogova portraits/Maria Hatzistefanis.jpg"
- linkURL="elena pirogova portraits/Maria Hatzistefanis.jpg"
- linkTarget="_blank"
- sourcePath="elena pirogova portraits/Maria Hatzistefanis.jpg">
+
+  <image imageURL="elena pirogova portraits/Maria Hatzistefanis.jpg"
+linkURL="elena pirogova portraits/Maria Hatzistefanis.jpg"
+linkTarget="_blank"
+sourcePath="elena pirogova portraits/Maria Hatzistefanis.jpg">
     <title><![CDATA[809]]></title>
     <caption><![CDATA[Maria Hatzistefanis, Rodial]]></caption>
   </image>
@@ -114,20 +115,14 @@ linkURL="elena pirogova portraits/Cavalli Eva.jpg"
     <title><![CDATA[400]]></title>
     <caption><![CDATA[Bruno Frizoni, Roger Vivier]]></caption>
   </image>
-    <image imageURL="elena pirogova portraits/Julia Muggenburg Belmacz.jpg"
+  <image imageURL="elena pirogova portraits/Julia Muggenburg Belmacz.jpg"
  linkURL="elena pirogova portraits/Julia Muggenburg Belmacz.jpg"
  linkTarget="_blank"
  sourcePath="elena pirogova portraits/Julia Muggenburg Belmacz.jpg">
     <title><![CDATA[831]]></title>
     <caption><![CDATA[Julia Muggenburg, jewelry designer]]></caption>
   </image>
-   <image imageURL="elena pirogova portraits/Alisa Khazanova.jpg"
- linkURL="elena pirogova portraits/Alisa Khazanova.jpg"
- linkTarget="_blank"
- sourcePath="elena pirogova portraits/Alisa Khazanova.jpg">
-    <title><![CDATA[436]]></title>
-    <caption><![CDATA[Alisa Khazanova, actress]]></caption>
-  </image>
+
   <image imageURL="elena pirogova portraits/Matteo Marzotto.jpg"
  linkURL="elena pirogova portraits/Matteo Marzotto.jpg"
  linkTarget="_blank"
@@ -142,7 +137,7 @@ linkURL="elena pirogova portraits/Cavalli Eva.jpg"
     <title><![CDATA[900]]></title>
     <caption><![CDATA[Anne Valerie Hash, fashion designer]]></caption>
   </image>
-    <image imageURL="elena pirogova portraits/Cecilia Bonstrom.jpg"
+  <image imageURL="elena pirogova portraits/Cecilia Bonstrom.jpg"
  linkURL="elena pirogova portraits/Cecilia Bonstrom.jpg"
  linkTarget="_blank"
  sourcePath="elena pirogova portraits/Cecilia Bonstrom.jpg">
@@ -162,7 +157,7 @@ linkURL="elena pirogova portraits/Cavalli Eva.jpg"
  sourcePath="elena pirogova portraits/Anya Hindmarch.jpg">
     <title><![CDATA[400]]></title>
     <caption><![CDATA[Anya Hindmarch]]></caption>
-  </image> 
+  </image>
   <image imageURL="elena pirogova portraits/Christine D Ornano.jpg"
  linkURL="elena pirogova portraits/Christine D Ornano.jpg"
  linkTarget="_blank"
@@ -177,13 +172,21 @@ linkURL="elena pirogova portraits/Cavalli Eva.jpg"
     <title><![CDATA[813]]></title>
     <caption><![CDATA[Jenson Button, F1]]></caption>
   </image>
-   <image imageURL="elena pirogova portraits/Simonetta Ravizza.jpg"
- linkURL="elena pirogova portraits/Simonetta Ravizza.jpg"
- linkTarget="_blank"
- sourcePath="elena pirogova portraits/Simonetta Ravizza.jpg">
+  <image imageURL="elena pirogova portraits/Simonetta Ravizza.jpg"
+linkURL="elena pirogova portraits/Simonetta Ravizza.jpg"
+linkTarget="_blank"
+sourcePath="elena pirogova portraits/Simonetta Ravizza.jpg">
     <title><![CDATA[400]]></title>
     <caption><![CDATA[Simonetta Ravizza]]></caption>
   </image>
+  <image imageURL="elena pirogova portraits/Doctor1.jpg"
+	linkURL="elena pirogova portraits/Doctor1.jpg"
+	linkTarget="_blank"
+	sourcePath="elena pirogova portraits/Doctor1.jpg">
+    <title><![CDATA[399]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+
   <image imageURL="elena pirogova portraits/Doctor.jpg"
 	linkURL="elena pirogova portraits/Doctor.jpg"
 	linkTarget="_blank"
@@ -191,11 +194,42 @@ linkURL="elena pirogova portraits/Cavalli Eva.jpg"
     <title><![CDATA[424]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="elena pirogova portraits/Doctor1.jpg"
-	linkURL="elena pirogova portraits/Doctor1.jpg"
-	linkTarget="_blank"
-	sourcePath="elena pirogova portraits/Doctor1.jpg">
-    <title><![CDATA[399]]></title>
+  <image imageURL="elena pirogova portraits/Giuseppe.jpg"
+linkURL="elena pirogova portraits/Giuseppe.jpg"
+linkTarget="_blank"
+sourcePath="elena pirogova portraits/Giuseppe.jpg">
+    <title><![CDATA[460]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="elena pirogova portraits/K.jpg"
+ linkURL="elena pirogova portraits/K.jpg"
+ linkTarget="_blank"
+ sourcePath="elena pirogova portraits/K.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="elena pirogova portraits/yevgeniy.jpg"
+  linkURL="elena pirogova portraits/yevgeniy.jpg"
+  linkTarget="_blank"
+  sourcePath="elena pirogova portraits/yevgeniy.jpg">
+    <title><![CDATA[463]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="elena pirogova portraits/yevgeniy_.jpg"
+  linkURL="elena pirogova portraits/yevgeniy_.jpg"
+  linkTarget="_blank"
+  sourcePath="elena pirogova portraits/yevgeniy_.jpg">
+    <title><![CDATA[427]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="elena pirogova portraits/male.jpg"
+  linkURL="elena pirogova portraits/male.jpg"
+  linkTarget="_blank"
+  sourcePath="elena pirogova portraits/male.jpg">
+    <title><![CDATA[480]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 

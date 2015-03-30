@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<juiceboxgallery 
+<juiceboxgallery
 	maxImageWidth="975"
 	maxImageHeight="600"
 	imageQuality="99"
@@ -40,20 +40,95 @@
   showImageOverlay="NEVER"
   addSEOContent="true"
 >
- <image imageURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 4.jpg"
+
+  <image imageURL="elena pirogova fashion/Gabrielle 2.jpg"
+ linkURL="elena pirogova fashion/Gabrielle 2.jpg"
+ linkTarget="_blank"
+ sourcePath="elena pirogova fashion/Gabrielle 2.jpg">
+    <title><![CDATA[900]]></title>
+    <caption><![CDATA[Nigel Preston & Knight campaign]]></caption>
+  </image>
+
+  <image imageURL="elena pirogova fashion/Gabrielle.jpg"
+ linkURL="elena pirogova fashion/Gabrielle.jpg"
+ linkTarget="_blank"
+ sourcePath="elena pirogova fashion/Gabrielle.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="elena pirogova fashion/Annabelle.jpg"
+ linkURL="elena pirogova fashion/Annabelle.jpg"
+ linkTarget="_blank"
+ sourcePath="elena pirogova fashion/Annabelle.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="elena pirogova fashion/Annabelle 2.jpg"
+ linkURL="elena pirogova fashion/Annabelle 2.jpg"
+ linkTarget="_blank"
+ sourcePath="elena pirogova fashion/Annabelle 2.jpg">
+    <title><![CDATA[900]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+
+
+  <image imageURL="elena pirogova fashion/Alexandra Jelly.jpg"
+   linkURL="elena pirogova fashion/Alexandra Jelly.jpg"
+   linkTarget="_blank"
+   sourcePath="elena pirogova fashion/Alexandra Jelly.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="elena pirogova fashion/Alexandra Jelly 2.jpg"
+   linkURL="elena pirogova fashion/Alexandra Jelly 2.jpg"
+   linkTarget="_blank"
+   sourcePath="elena pirogova fashion/Alexandra Jelly 2.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="elena pirogova fashion/Alexandra Jelly 3.jpg"
+ linkURL="elena pirogova fashion/Alexandra Jelly 3.jpg"
+ linkTarget="_blank"
+ sourcePath="elena pirogova fashion/Alexandra Jelly 3.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="elena pirogova fashion/Alexandra Jelly 4.jpg"
+ linkURL="elena pirogova fashion/Alexandra Jelly 4.jpg"
+ linkTarget="_blank"
+ sourcePath="elena pirogova fashion/Alexandra Jelly 4.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="elena pirogova fashion/Thaisa.jpg"
+ linkURL="elena pirogova fashion/Thaisa.jpg"
+ linkTarget="_blank"
+ sourcePath="elena pirogova fashion/Thaisa.jpg">
+    <title><![CDATA[400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 4.jpg"
 	
-	linkURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 4.jpg"
-	linkTarget="_blank"
-	sourcePath="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 4.jpg">
+   linkURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 4.jpg"
+   linkTarget="_blank"
+   sourcePath="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 4.jpg">
     <title><![CDATA[400]]></title>
     <caption><![CDATA['Una Burke' look-book AW2013]]></caption>
   </image>
- 
- <image imageURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 3.jpg"
+
+
+  <image imageURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 3.jpg"
 	
-	linkURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 3.jpg"
-	linkTarget="_blank"
-	sourcePath="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 3.jpg">
+   linkURL="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 3.jpg"
+   linkTarget="_blank"
+   sourcePath="elena pirogova fashion/Una Burke AW2013 by Elena Pirogova 3.jpg">
     <title><![CDATA[400]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -194,7 +269,6 @@
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="elena pirogova fashion/My Trousseau by Elena Pirogova 5.jpg"
-	
 	linkURL="elena pirogova fashion/My Trousseau by Elena Pirogova 5.jpg"
 	linkTarget="_blank"
 	sourcePath="elena pirogova fashion/My Trousseau by Elena Pirogova 5.jpg">
@@ -337,7 +411,7 @@
     <title><![CDATA[441]]></title>
     <caption><![CDATA[]]></caption>
   </image>
- 
+
   <image imageURL="elena pirogova fashion/Mermaid by Elena Pirogova 6.jpg"
 	
 	linkURL="elena pirogova fashion/Mermaid by Elena Pirogova 6.jpg"
@@ -346,19 +420,19 @@
     <title><![CDATA[900]]></title>
     <caption><![CDATA[]]></caption>
   </image>
- <image imageURL="elena pirogova fashion/Mermaid by Elena Pirogova 5.jpg"
+  <image imageURL="elena pirogova fashion/Mermaid by Elena Pirogova 5.jpg"
 	
-	linkURL="elena pirogova fashion/Mermaid by Elena Pirogova 5.jpg"
-	linkTarget="_blank"
-	sourcePath="elena pirogova fashion/Mermaid by Elena Pirogova 5.jpg">
+   linkURL="elena pirogova fashion/Mermaid by Elena Pirogova 5.jpg"
+   linkTarget="_blank"
+   sourcePath="elena pirogova fashion/Mermaid by Elena Pirogova 5.jpg">
     <title><![CDATA[400]]></title>
     <caption><![CDATA[]]></caption>
-  </image> 
- <image imageURL="elena pirogova fashion/Cabriolet by Elena Pirogova 1.jpg"
+  </image>
+  <image imageURL="elena pirogova fashion/Cabriolet by Elena Pirogova 1.jpg"
 
-	linkURL="elena pirogova fashion/Cabriolet by Elena Pirogova 1.jpg"
-	linkTarget="_blank"
-	sourcePath="elena pirogova fashion/Cabriolet by Elena Pirogova 1.jpg">
+   linkURL="elena pirogova fashion/Cabriolet by Elena Pirogova 1.jpg"
+   linkTarget="_blank"
+   sourcePath="elena pirogova fashion/Cabriolet by Elena Pirogova 1.jpg">
     <title><![CDATA[900]]></title>
     <caption><![CDATA[]]></caption>
   </image>
