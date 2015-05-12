@@ -44,11 +44,29 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="elena pirogova fashion\Alexandra Jelly 2.jpg" />
+    <Content Include="elena pirogova fashion\Alexandra Jelly 3.jpg" />
+    <Content Include="elena pirogova fashion\Alexandra Jelly 4.jpg" />
+    <Content Include="elena pirogova fashion\Alexandra Jelly.jpg" />
+    <Content Include="elena pirogova fashion\Annabelle 2.jpg" />
+    <Content Include="elena pirogova fashion\Annabelle.jpg" />
+    <Content Include="elena pirogova fashion\Gabrielle 2.jpg" />
+    <Content Include="elena pirogova fashion\Gabrielle.jpg" />
+    <Content Include="elena pirogova fashion\Thaisa.jpg" />
+    <Content Include="elena pirogova portraits\Giuseppe.jpg" />
+    <Content Include="elena pirogova portraits\K.jpg" />
+    <Content Include="elena pirogova portraits\male.jpg" />
+    <Content Include="elena pirogova portraits\yevgeniy.jpg" />
+    <Content Include="elena pirogova portraits\yevgeniy_.jpg" />
     <Content Include="images.html" />
-    <Content Include="config\fashion0.xml" />
+    <Content Include="config\fashion0.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="config\fashion1.xml" />
     <Content Include="config\fashion2.xml" />
-    <Content Include="config\fashion3.xml" />
+    <Content Include="config\fashion3.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="config\portraits0.xml" />
     <Content Include="config\portraits1.xml" />
     <Content Include="config\portraits2.xml" />
@@ -125,6 +143,8 @@
     <Content Include="elena pirogova portraits\Paul Smith.jpg" />
     <Content Include="elena pirogova portraits\Simonetta Ravizza.jpg" />
     <Content Include="about.html" />
+    <None Include="js\hammer.min.map" />
+    <Content Include="js\jquery-2.1.4.min.js" />
     <Content Include="js\jquery.ui.widget.1.11.2.min.js" />
     <Content Include="portraits.html" />
     <Content Include="index.html" />
@@ -138,12 +158,8 @@
     <Content Include="jbcore\juicebox.js" />
     <Content Include="js\detectmobilebrowser.js" />
     <Content Include="js\hammer.min.js" />
-    <Content Include="js\jquery-1.9.1.min.js" />
-    <Content Include="js\jquery-2.1.3.min.js" />
     <Content Include="js\jquery.debounce-1.0.5.js" />
-    <Content Include="js\jquery.ui.widget.js" />
     <Content Include="js\pirogova.gallery.loader.js" />
-    <Content Include="js\pirogova.web.loader.js" />
     <Content Include="robots.txt" />
     <Content Include="sitemap.xml" />
     <Content Include="style\background\transparent.gif" />

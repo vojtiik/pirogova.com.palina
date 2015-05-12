@@ -1,9 +1,10 @@
 
-(function ($, undefined) {
+(function ($) {
+    'use strict';
     $.widget("web.loader", {
 
         options: {
-          value : null
+            value: null
         },
 
         _create: function (galleryname) {
@@ -16,8 +17,8 @@
                 defaultImageHeight: 600,
                 defaultImageWidth: 520,
                 maxImageWidth: 975,
-                defaultDebounce: 200
-
+                defaultDebounce: 200,
+                galleryArray : []
             };
 
             // insert content holder tag
@@ -29,11 +30,15 @@
                 localWidget._options.$contentPageHolder.finish().show();
             });
 
-            if (this.options.value == "fashion") this._loadFashion();
-            if (this.options.value == "portrait") this._loadPortrait();
+            if (this.options.value === "fashion") {
+                this._loadFashion();
+            }
+            if (this.options.value === "portrait") {
+                this._loadPortrait();
+            }
         },
 
-      
+
 
         _loadFashion: function () {
             var methods = this;
@@ -47,13 +52,12 @@
             });
         },
 
-
         _loadPortrait: function () {
             var methods = this;
             var _op = methods._options;
 
             // hide current content 
-            _op.$contentPageHolder.hide(500, function () {
+           _op.$contentPageHolder.hide(500, function () {
                 _op.$contentPageHolder.load(_op.baseContentDir + _op.portraitContent, function () {
 
                     // create gallery
@@ -63,26 +67,27 @@
                         'juiceboxPortraitCaption',
                         4);
                 });
-            });
+           });
         },
 
         _loadAbout: function () {
-            var methods = this;
-            var _op = methods._options;
-
+        
         },
 
         _createSliderGallery: function (configname, galleryName, captionName, galleryCount) {
             var methods = this;
             var _op = methods._options;
 
-            var galleryArray = new Array();
-            var captionArray = new Array();
-            for (i = 0; i < galleryCount; i++) {
-                var confignameUrl = configname + i + '.xml';
-                var galleryInnitCount = 0;
+            var captionArray = [];
+            var i;
+            var confignameUrl;
+            var galleryInnitCount;
+            var juice;
+            for (i = 0; i < galleryCount; i += 1) {
+                confignameUrl = configname + i + '.xml';
+                galleryInnitCount = 0;
 
-                var juice = new juicebox({
+                juice = new juicebox({
                     containerId: galleryName + i,
                     galleryWidth: _op.defaultImageWidth + "px",
                     galleryHeight: _op.defaultImageHeight + "px",
@@ -93,12 +98,12 @@
 
                 juice.onInitComplete = function () {
                     galleryInnitCount = galleryInnitCount + 1;
-                    if (galleryInnitCount == galleryCount) {
-                        methods._galleriesInnitialized(galleryArray, captionArray, galleryCount);
+                    if (galleryInnitCount === galleryCount) {
+                        methods._galleriesInnitialized(captionArray, galleryCount);
                     }
-                }
+                };
 
-                galleryArray[i] = {
+                _op.galleryArray[i] = {
                     gallery: juice,
                     control: _op.$contentPageHolder.find('.galleryWrapper').find('#' + galleryName + i)
                 };
@@ -107,15 +112,16 @@
             }
         },
 
-        _galleriesInnitialized: function (galleryArray, captionArray, galleryCount) {
+        _galleriesInnitialized: function (captionArray, galleryCount) {
             var methods = this;
             var _op = methods._options;
 
-            var gallerySize = galleryArray[0].gallery.getImageCount();
+            var gallerySize = _op.galleryArray[0].gallery.getImageCount();
 
             // fix gallery width for fist images
-            for (i = 0; i < galleryCount; i++) {
-                methods._fixGalleryWidth(galleryArray[i], i + 1, captionArray[i]);
+            var i;
+            for (i = 0; i < galleryCount; i += 1) {
+                methods._fixGalleryWidth(i, i + 1, captionArray[i]);
             }
 
             // bind gallery controls
@@ -129,21 +135,24 @@
                 var hammered = Hammer(wrapper);
 
                 hammered.on('swipeleft', $.debounce(function () {
-                    methods._moveRight(galleryArray, gallerySize, captionArray);
+                    methods._moveRight(gallerySize, captionArray);
                 }, _op.defaultDebounce));
 
                 hammered.on('swiperight', $.debounce(function () {
-                    methods._moveLeft(galleryArray, gallerySize, captionArray);
+                    methods._moveLeft(gallerySize, captionArray);
                 }, _op.defaultDebounce));
             }
             else {
 
                 // bind click on div scrolling
-                _op.$contentPageHolder.find('.scrollright').click($.debounce(function () {
-                    methods._moveRight(galleryArray, gallerySize, captionArray);
-                }, _op.defaultDebounce));
+                _op.$contentPageHolder.find('.scrollright').click(
+                    $.debounce(function () {
+                        methods._moveRight( gallerySize, captionArray);
+                    }, _op.defaultDebounce));
+
+
                 _op.$contentPageHolder.find('.scrollleft').click($.debounce(function () {
-                    methods._moveLeft(galleryArray, gallerySize, captionArray);
+                    methods._moveLeft( gallerySize, captionArray);
                 }, _op.defaultDebounce));
 
                 // add mouse scroll
@@ -151,50 +160,47 @@
                     var delta = event.originalEvent.detail < 0 || event.originalEvent.wheelDelta > 0 ? 1 : -1;
                     if (delta > 0) {
                         //up                      
-                        methods._moveRight(galleryArray, gallerySize, captionArray);
+                        methods._moveRight( gallerySize, captionArray);
                     } else {
                         // down
-                        methods._moveLeft(galleryArray, gallerySize, captionArray);
+                        methods._moveLeft( gallerySize, captionArray);
                     }
                     return false;
                 }, _op.defaultDebounce));
             }
 
             // and we done, let everyone know
-            _op.$contentPageHolder.trigger('galleryloaded', 1);
+            _op.$contentPageHolder.trigger('galleryloaded');
         },
 
-        _moveRight: function (galleryArray, gallerySize, captionArray) {
+        _moveRight: function (gallerySize, captionArray) {
             var methods = this;
             var _op = methods._options;
-
-            var galleryCount = galleryArray.length;
-            var firstGalleryNext = galleryArray[0].gallery.getImageIndex() + 1;
-
-            for (i = 0; i < galleryCount; i++) {
-                methods._fixGalleryWidth(galleryArray[i], methods._getNextImageIndex(firstGalleryNext, i, gallerySize), captionArray[i]);
-                galleryArray[i].gallery.showNextImage();
+            var galleryCount = _op.galleryArray.length;
+            var firstGalleryNext = _op.galleryArray[0].gallery.getImageIndex() + 1;
+            var i;
+            for (i = 0; i < galleryCount; i += 1) {
+                methods._fixGalleryWidth(i, methods._getNextImageIndex(firstGalleryNext, i, gallerySize), captionArray[i]);
+                _op.galleryArray[i].gallery.showNextImage();
             }
         },
 
-        _moveLeft: function (galleryArray, gallerySize, captionArray) {
+        _moveLeft: function (gallerySize, captionArray) {
             var methods = this;
             var _op = methods._options;
 
-            var firstGalleryprevious = galleryArray[0].gallery.getImageIndex() - 1;
-            var galleryCount = galleryArray.length;
-
-            for (i = 0; i < galleryArray.length; i++) {
-                methods._fixGalleryWidth(galleryArray[i], methods._getPreviousImageIndex(firstGalleryprevious, i, gallerySize), captionArray[i]);
-                galleryArray[i].gallery.showPreviousImage();
+            var firstGalleryprevious = _op.galleryArray[0].gallery.getImageIndex() - 1;
+            var i;
+            var previousImageIndex;
+            for (i = 0; i < _op.galleryArray.length; i += 1) {
+                previousImageIndex = methods._getPreviousImageIndex(firstGalleryprevious, i, gallerySize);
+                methods._fixGalleryWidth(i, previousImageIndex, captionArray[i]);
+                _op.galleryArray[i].gallery.showPreviousImage();
             }
         },
 
         _getPreviousImageIndex: function (firstGalleryPrevious, galleryIndex, gallerySize) {
-            var methods = this;
-            var _op = methods._options;
-
-            if (firstGalleryPrevious == 0) {
+            if (firstGalleryPrevious === 0) {
                 firstGalleryPrevious = gallerySize;
             }
             var next = firstGalleryPrevious + galleryIndex;
@@ -209,7 +215,7 @@
             var methods = this;
             var _op = methods._options;
 
-            if (firstGalleryNext == (gallerySize + 1)) {
+            if (firstGalleryNext === (gallerySize + 1)) {
                 firstGalleryNext = 1;
             }
             var next = firstGalleryNext + galleryIndex;
@@ -220,34 +226,32 @@
             }
         },
 
-        _fixGalleryWidth: function (gallery, imageIndex, caption) {
+        _fixGalleryWidth: function (galleryindex, imageIndex, caption) {
             var methods = this;
             var _op = methods._options;
 
             // fix gallery width
-            var imageinfo = gallery.gallery.getImageInfo(imageIndex);
+            var imageinfo = _op.galleryArray[galleryindex].gallery.getImageInfo(imageIndex);
             var width = imageinfo.title;
 
             if (isNaN(width)) {
                 width = _op.defaultImageWidth;
             }
 
-            gallery.control.hide();
-            gallery.gallery.setGallerySize(width, _op.defaultImageHeight);
-            gallery.control.finish().fadeIn(800);
+            _op.galleryArray[galleryindex].control.hide();
+            _op.galleryArray[galleryindex].gallery.setGallerySize(parseInt(width), _op.defaultImageHeight);
+            _op.galleryArray[galleryindex].control.finish().fadeIn(300);
 
             // set gallery caption width and text
             methods._updateCaptionControl(caption, imageinfo.caption, width);
         },
 
         _updateCaptionControl: function (caption, text, galleryWidth) {
-            var methods = this;
-            var _op = methods._options;
-            caption.css('width', galleryWidth + 'px');
+             caption.css('width', galleryWidth + 'px');
             caption.css('min-width', galleryWidth + 'px');
             caption.hide();
 
-            if (text == '') {
+            if (text === '') {
                 caption.html('&nbsp;');
             } else {
                 caption.text(text);

@@ -20,7 +20,7 @@
 	showAutoPlayStatus="false"
 	enableLooping="true"
 	autoPlayOnLoad="false"
-	imageTransitionType="SLIDE"
+	imageTransitionType="NONE"
 	imagePreloading="NEXT"
 	showImageNav="false"
 	useThumbDots="false"
