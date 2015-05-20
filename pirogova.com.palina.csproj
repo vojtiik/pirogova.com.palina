@@ -45,7 +45,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="lazyload.html" />
-    <Content Include="celebrity.html" />
     <Content Include="images.html" />
     <Content Include="config\fashion0.xml" />
     <Content Include="config\fashion1.xml" />

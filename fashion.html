@@ -11,18 +11,23 @@
     <link rel="stylesheet" type="text/css" href="style/style.css">
     <link rel="stylesheet" type="text/css" href="style/font/fonts.css">
     <link rel="stylesheet" type="text/css" href="style/gallery.css">
-    <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
-    <script type="text/javascript" src="jbcore/juicebox.js"></script>
-    <script type="text/javascript" src="js/jquery.ui.widget.1.11.2.min.js"></script>
-    <script type="text/javascript" src="js/detectmobilebrowser.js"></script>
-    <script type="text/javascript" src="js/jquery.debounce-1.0.5.js"></script>
-    <script type="text/javascript" src="js/hammer.min.js"></script>
-    <script type="text/javascript" src="js/pirogova.gallery.loader.js"></script>
 
-    <script>
-        $(document).ready(function () {
-            $('#content').loader({ value: "fashion" });
-        });
+    <style>
+        .scrolls {
+            overflow-x: scroll;
+            overflow-y: hidden;
+            height: 600px;
+            white-space: nowrap;
+        }
+
+        .galleryitem {
+            background-repeat: no-repeat;
+            display: inline-block;
+            padding-left: 30px;
+        }
+    </style>
+    <script type="text/javascript">
+        document.write("<style type=\"text/css\" >.lazyImg{background-image:none !important;}</style>");
     </script>
 
     <script type="text/javascript">
@@ -38,7 +43,6 @@
         })();
 
     </script>
-
 </head>
 
 <body>
@@ -56,19 +60,55 @@
                 </div>
                 <div class="galleryWrapperLines topGalleryWrapperLines center"></div>
                 <div class="galleryWrapper">
-                    <div class="scrollleft"></div>
-                    <div class="scrollright"></div>
-                    <div id="juiceboxFashion0" class="fakescroller"></div>
-                    <div id="juiceboxFashion1" class="fakescroller"></div>
-                    <div id="juiceboxFashion2" class="fakescroller"></div>
-                    <div id="juiceboxFashion3" class="fakescroller"></div>
+                    <div id="gallery" class="scrolls">
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 2.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 3.jpg');width: 900px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 4.jpg');width: 580px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 5.jpg');width: 582px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Art Deco for HighLigts magazine by Elena Pirogova .jpg');width: 482px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Art Deco for HighLigts magazine by Elena Pirogova 1.jpg');width: 482px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Art Deco for HighLigts magazine by Elena Pirogova 2.jpg');width: 482px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Art Deco for HighLigts magazine by Elena Pirogova 3.jpg');width: 482px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Cabriolet by Elena Pirogova 1.jpg');width: 900px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Cabriolet by Elena Pirogova 2.jpg');width: 900px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Cabriolet by Elena Pirogova 3.jpg');width: 900px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/I Clown by Elena Pirogova 1.jpg');width: 401px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/I Clown by Elena Pirogova 2.jpg');width: 401px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/I Clown by Elena Pirogova 3.jpg');width: 397px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/I Clown by Elena Pirogova 4.jpg');width: 453px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Katerina Smutok by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Katerina Smutok by Elena Pirogova 2.jpg');width: 462px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Katerina Smutok by Elena Pirogova 3.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Katerina Smutok by Elena Pirogova 4.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Mermaid by Elena Pirogova 1.jpg');width: 588px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Mermaid by Elena Pirogova 2.jpg');width: 590px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Mermaid by Elena Pirogova 3.jpg');width: 589px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Mermaid by Elena Pirogova 4.jpg');width: 441px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Mermaid by Elena Pirogova 5.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Mermaid by Elena Pirogova 6.jpg');width: 900px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 2.jpg');width: 846px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 3.jpg');width: 428px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 4.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 5.jpg');width: 438px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 6.jpg');width: 900px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2012 by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2012 by Elena Pirogova 2.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2012 by Elena Pirogova 3.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2012 by Elena Pirogova 4.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 2.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 3.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 4.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 5.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 6.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 7.jpg');width: 400px; height: 600px"></div>
+                        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Zhanna.jpg');width: 901px; height: 600px"></div>
+                    </div>
+
                 </div>
-                <div class="captionWrapper fashionTextFont">
-                    <div id="juiceboxFashionCaption0" class="scrollercaption"></div>
-                    <div id="juiceboxFashionCaption1" class="scrollercaption"></div>
-                    <div id="juiceboxFashionCaption2" class="scrollercaption"></div>
-                    <div id="juiceboxFashionCaption3" class="scrollercaption"></div>
-                </div>
+
             </div>
             <div class="galleryWrapperLines center"></div>
         </div>
@@ -94,6 +134,7 @@
 
 </html>
 
+<script src="js/lazyload.js"></script>
 
 
 

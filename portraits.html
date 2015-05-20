@@ -11,18 +11,23 @@
     <link rel="stylesheet" type="text/css" href="style/style.css">
     <link rel="stylesheet" type="text/css" href="style/font/fonts.css">
     <link rel="stylesheet" type="text/css" href="style/gallery.css">
-    <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
-    <script type="text/javascript" src="jbcore/juicebox.js"></script>
-    <script type="text/javascript" src="js/jquery.ui.widget.1.11.2.min.js"></script>
-    <script type="text/javascript" src="js/detectmobilebrowser.js"></script>
-    <script type="text/javascript" src="js/jquery.debounce-1.0.5.js"></script>
-    <script type="text/javascript" src="js/hammer.min.js"></script>
-    <script type="text/javascript" src="js/pirogova.gallery.loader.js"></script>
 
-    <script>
-        $(document).ready(function () {
-            $('#content').loader({ value: "portrait" });
-        });
+    <style>
+        .scrolls {
+            overflow-x: scroll;
+            overflow-y: hidden;
+            height: 600px;
+            white-space: nowrap;
+        }
+
+        .galleryitem {
+            background-repeat: no-repeat;
+            display: inline-block;
+            padding-left: 30px;
+        }
+    </style>
+    <script type="text/javascript">
+        document.write("<style type=\"text/css\" >.lazyImg{background-image:none !important;}</style>");
     </script>
 
     <script type="text/javascript">
@@ -56,18 +61,29 @@
                 </div>
                 <div class="galleryWrapperLines topGalleryWrapperLines center"></div>
                 <div class="galleryWrapper">
-                    <div class="scrollleft"></div>
-                    <div class="scrollright"></div>
-                    <div id="juiceboxPortrait0" class="fakescroller"></div>
-                    <div id="juiceboxPortrait1" class="fakescroller"></div>
-                    <div id="juiceboxPortrait2" class="fakescroller"></div>
-                    <div id="juiceboxPortrait3" class="fakescroller"></div>
-                </div>
-                <div class="captionWrapper portraitsTextFont">
-                    <div id="juiceboxPortraitCaption0" class="scrollercaption"></div>
-                    <div id="juiceboxPortraitCaption1" class="scrollercaption"></div>
-                    <div id="juiceboxPortraitCaption2" class="scrollercaption"></div>
-                    <div id="juiceboxPortraitCaption3" class="scrollercaption"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Alisa Khazanova.jpg');width: 436px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Anna Valerie Hash.jpg');width: 900px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Anya Hindmarch.jpg');width: 400px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Bruno Frizoni.jpg');width: 400px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Candy Dulfer with saxophone.jpg');width: 400px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Candy Dulfer.jpg');width: 428px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Cavalli Eva.jpg');width: 900px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Cavalli Roberto closeup.jpg');width: 480px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Cavalli Roberto.jpg');width: 400px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Cecilia Bonstrom.jpg');width: 397px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Christine D Ornano.jpg');width: 450px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Claudio Silvestrin.jpg');width: 400px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Doctor.jpg');width: 424px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Doctor1.jpg');width: 399px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Edward Capel Cure.jpg');width: 400px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Elie Saab.jpg');width: 428px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Ingeborga Dapkunaite.jpg');width: 900px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Jenson Button.jpg');width: 813px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Julia Muggenburg Belmacz.jpg');width: 831px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Maria Hatzistefanis.jpg');width: 809px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Matteo Marzotto.jpg');width: 400px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Paul Smith.jpg');width: 419px; height: 600px"></div>
+                    <div class="lazyImg galleryitem" style="background-image:url('/portraits/Simonetta Ravizza.jpg');width: 400px; height: 600px"></div>
                 </div>
             </div>
             <div class="galleryWrapperLines center"></div>

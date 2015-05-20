@@ -3,76 +3,69 @@
 <head>
     <!--The original content of the head tag goes here-->
     <style>
-        .image-row {
+        .scrolls {
             overflow-x: scroll;
             overflow-y: hidden;
             height: 600px;
-            width: 100%;
-            padding: 0 15px;
-        }
-
-        .image-item {
-            padding: 0;
-            height: 600px;
-        }
-
-        .list-inline {
             white-space: nowrap;
         }
-    </style>
 
+        .galleryitem {
+             background-repeat: no-repeat;
+            display: inline-block;
+            padding-right: 30px
+        }
+    </style>
     <script type="text/javascript">
         document.write("<style type=\"text/css\" >.lazyImg{background-image:none !important;}</style>");
     </script>
 </head>
 <body>
-    <div class="image-row">
-        <ul class="list-inline">
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 2.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 3.jpg');width: 900px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 4.jpg');width: 580px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 5.jpg');width: 582px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Art Deco for HighLigts magazine by Elena Pirogova .jpg');width: 482px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Art Deco for HighLigts magazine by Elena Pirogova 1.jpg');width: 482px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Art Deco for HighLigts magazine by Elena Pirogova 2.jpg');width: 482px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Art Deco for HighLigts magazine by Elena Pirogova 3.jpg');width: 482px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Cabriolet by Elena Pirogova 1.jpg');width: 900px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Cabriolet by Elena Pirogova 2.jpg');width: 900px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Cabriolet by Elena Pirogova 3.jpg');width: 900px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/I Clown by Elena Pirogova 1.jpg');width: 401px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/I Clown by Elena Pirogova 2.jpg');width: 401px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/I Clown by Elena Pirogova 3.jpg');width: 397px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/I Clown by Elena Pirogova 4.jpg');width: 453px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Katerina Smutok by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Katerina Smutok by Elena Pirogova 2.jpg');width: 462px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Katerina Smutok by Elena Pirogova 3.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Katerina Smutok by Elena Pirogova 4.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Mermaid by Elena Pirogova 1.jpg');width: 588px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Mermaid by Elena Pirogova 2.jpg');width: 590px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Mermaid by Elena Pirogova 3.jpg');width: 589px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Mermaid by Elena Pirogova 4.jpg');width: 441px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Mermaid by Elena Pirogova 5.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Mermaid by Elena Pirogova 6.jpg');width: 900px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 2.jpg');width: 846px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 3.jpg');width: 428px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 4.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 5.jpg');width: 438px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 6.jpg');width: 900px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Una Burke AW2012 by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Una Burke AW2012 by Elena Pirogova 2.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Una Burke AW2012 by Elena Pirogova 3.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Una Burke AW2012 by Elena Pirogova 4.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 2.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 3.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 4.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 5.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 6.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 7.jpg');width: 400px; height: 600px"></div></li>
-            <li class="image-item"><div class="lazyImg" style="background-image:url('/fashion/Zhanna.jpg');width: 901px; height: 600px"></div></li>
-        </ul>
+    <div id="gallery" class="scrolls">
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 2.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 3.jpg');width: 900px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 4.jpg');width: 580px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Anna Lee by Elena Pirogova 5.jpg');width: 582px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Art Deco for HighLigts magazine by Elena Pirogova .jpg');width: 482px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Art Deco for HighLigts magazine by Elena Pirogova 1.jpg');width: 482px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Art Deco for HighLigts magazine by Elena Pirogova 2.jpg');width: 482px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Art Deco for HighLigts magazine by Elena Pirogova 3.jpg');width: 482px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Cabriolet by Elena Pirogova 1.jpg');width: 900px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Cabriolet by Elena Pirogova 2.jpg');width: 900px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Cabriolet by Elena Pirogova 3.jpg');width: 900px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/I Clown by Elena Pirogova 1.jpg');width: 401px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/I Clown by Elena Pirogova 2.jpg');width: 401px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/I Clown by Elena Pirogova 3.jpg');width: 397px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/I Clown by Elena Pirogova 4.jpg');width: 453px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Katerina Smutok by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Katerina Smutok by Elena Pirogova 2.jpg');width: 462px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Katerina Smutok by Elena Pirogova 3.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Katerina Smutok by Elena Pirogova 4.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Mermaid by Elena Pirogova 1.jpg');width: 588px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Mermaid by Elena Pirogova 2.jpg');width: 590px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Mermaid by Elena Pirogova 3.jpg');width: 589px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Mermaid by Elena Pirogova 4.jpg');width: 441px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Mermaid by Elena Pirogova 5.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Mermaid by Elena Pirogova 6.jpg');width: 900px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 2.jpg');width: 846px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 3.jpg');width: 428px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 4.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 5.jpg');width: 438px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/My Trousseau by Elena Pirogova 6.jpg');width: 900px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2012 by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2012 by Elena Pirogova 2.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2012 by Elena Pirogova 3.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2012 by Elena Pirogova 4.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 1.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 2.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 3.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 4.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 5.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 6.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Una Burke AW2013 by Elena Pirogova 7.jpg');width: 400px; height: 600px"></div>
+        <div class="lazyImg galleryitem" style="background-image:url('/fashion/Zhanna.jpg');width: 901px; height: 600px"></div>
     </div>
 </body>
 
