@@ -44,6 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="lazyload.html" />
     <Content Include="celebrity.html" />
     <Content Include="images.html" />
     <Content Include="config\fashion0.xml" />
@@ -102,6 +103,7 @@
     <Content Include="fashion\Una Burke AW2013 by Elena Pirogova 6.jpg" />
     <Content Include="fashion\Una Burke AW2013 by Elena Pirogova 7.jpg" />
     <Content Include="fashion\Zhanna.jpg" />
+    <Content Include="js\lazyload.js" />
     <Content Include="portraits\Alisa Khazanova.jpg" />
     <Content Include="portraits\Anna Valerie Hash.jpg" />
     <Content Include="portraits\Anya Hindmarch.jpg" />
