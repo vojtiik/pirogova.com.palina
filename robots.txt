@@ -1,12 +1,12 @@
 User-agent: Googlebot-Image
 Allow: /
-Allow: /elena pirogova portraits/
-Allow: /elena pirogova fashion/
+Allow: /portraits/
+Allow: /fashion/
 
 User-agent: *
 Disallow: /admin/
 Disallow: /headshots/
-Disallow: /headshots
+Disallow: /juice_backup/
 
 
 
