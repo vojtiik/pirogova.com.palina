@@ -4,113 +4,687 @@
     <loc>http://e-pirogova.com/</loc>
     <lastmod>2015-05-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://e-pirogova.com/index.html</loc>
     <lastmod>2015-05-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
-  <url>
-    <loc>http://e-pirogova.com/fashion.html</loc>
-    <lastmod>2015-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
   <url>
     <loc>http://e-pirogova.com/about.html</loc>
     <lastmod>2015-05-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.6</priority>
   </url>
- 
- 
- <url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly 2.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly 2.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly 3.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly 3.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly 4.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly 4.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 1.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 1.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 2.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 2.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 3.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 3.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 4.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 4.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 5.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 5.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Annabelle 2.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Annabelle 2.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Annabelle.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Annabelle.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova .jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova .jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova 1.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova 1.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova 2.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova 2.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova 3.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova 3.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Cabriolet by Elena Pirogova 1.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Cabriolet by Elena Pirogova 1.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Cabriolet by Elena Pirogova 2.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Cabriolet by Elena Pirogova 2.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Cabriolet by Elena Pirogova 3.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Cabriolet by Elena Pirogova 3.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Gabrielle 2.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Gabrielle 2.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Gabrielle.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Gabrielle.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 1.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 1.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 2.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 2.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 3.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 3.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 4.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 4.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 1.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 1.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 2.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 2.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 3.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 3.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 4.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 4.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 1.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 1.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 2.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 2.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 3.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 3.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 4.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 4.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 5.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 5.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 6.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 6.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 1.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 1.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 2.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 2.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 3.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 3.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 4.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 4.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 5.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 5.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 6.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 6.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Thaisa.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Thaisa.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 1.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 1.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 2.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 2.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 3.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 3.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 4.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 4.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 1.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 1.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 2.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 2.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 3.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 3.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 4.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 4.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 5.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 5.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 6.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 6.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 7.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 7.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/fashion.html</loc><image:image><image:loc>http://www.e-pirogova.com/fashion/Zhanna.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/fashion/Zhanna.jpg</image:loc></image:image></url>
 
+  <url>
+    <loc>http://www.e-pirogova.com/portraits.html</loc>
+    <lastmod>2015-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Alisa Khazanova.jpg</image:loc>
+      <image:title>Alisa Khazanova</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Anna Valerie Hash.jpg</image:loc>
+      <image:title>Anna Valerie Hash</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Anya Hindmarch.jpg</image:loc>
+      <image:title>Anya Hindmarch</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Bruno Frizoni.jpg</image:loc>
+      <image:title>Bruno Frizoni</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Candy Dulfer with saxophone.jpg</image:loc>
+      <image:title>Candy Dulfer with saxophone</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Candy Dulfer.jpg</image:loc>
+      <image:title>Candy Dulfer</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Cavalli Eva.jpg</image:loc>
+      <image:title>Cavalli Eva</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Cavalli Roberto closeup.jpg</image:loc>
+      <image:title>Cavalli Roberto closeup</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Cavalli Roberto.jpg</image:loc>
+      <image:title>Cavalli Roberto</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Cecilia Bonstrom.jpg</image:loc>
+      <image:title>Cecilia Bonstrom</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Christine D Ornano.jpg</image:loc>
+      <image:title>Christine D Ornano</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Claudio Silvestrin.jpg</image:loc>
+      <image:title>Claudio Silvestrin</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Doctor.jpg</image:loc>
+      <image:title>Doctor</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Doctor1.jpg</image:loc>
+      <image:title>Doctor1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Edward Capel Cure.jpg</image:loc>
+      <image:title>Edward Capel Cure</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Elie Saab.jpg</image:loc>
+      <image:title>Elie Saab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Giuseppe.jpg</image:loc>
+      <image:title>Giuseppe</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Ingeborga Dapkunaite.jpg</image:loc>
+      <image:title>Ingeborga Dapkunaite</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Jenson Button.jpg</image:loc>
+      <image:title>Jenson Button</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Julia Muggenburg Belmacz.jpg</image:loc>
+      <image:title>Julia Muggenburg Belmacz</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/K.jpg</image:loc>
+      <image:title>K</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/male.jpg</image:loc>
+      <image:title>male</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Maria Hatzistefanis.jpg</image:loc>
+      <image:title>Maria Hatzistefanis</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Matteo Marzotto.jpg</image:loc>
+      <image:title>Matteo Marzotto</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Paul Smith.jpg</image:loc>
+      <image:title>Paul Smith</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Simonetta Ravizza.jpg</image:loc>
+      <image:title>Simonetta Ravizza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/yevgeniy.jpg</image:loc>
+      <image:title>yevgeniy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/yevgeniy_.jpg</image:loc>
+      <image:title>yevgeniy_</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.e-pirogova.com/imagestore.html</loc>
+    <lastmod>2015-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly 2.jpg</image:loc>
+      <image:title>Alexandra Jelly 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly 3.jpg</image:loc>
+      <image:title>Alexandra Jelly 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly 4.jpg</image:loc>
+      <image:title>Alexandra Jelly 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly.jpg</image:loc>
+      <image:title>Alexandra Jelly</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Anna Lee by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Anna Lee by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Anna Lee by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 4.jpg</image:loc>
+      <image:title>Anna Lee by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 5.jpg</image:loc>
+      <image:title>Anna Lee by Elena Pirogova 5</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Annabelle 2.jpg</image:loc>
+      <image:title>Annabelle 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Annabelle.jpg</image:loc>
+      <image:title>Annabelle</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova .jpg</image:loc>
+      <image:title>Art Deco for HighLigts magazine by Elena Pirogova </image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Art Deco for HighLigts magazine by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Art Deco for HighLigts magazine by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Art Deco for HighLigts magazine by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Cabriolet by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Cabriolet by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Cabriolet by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Cabriolet by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Cabriolet by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Cabriolet by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Gabrielle 2.jpg</image:loc>
+      <image:title>Gabrielle 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Gabrielle.jpg</image:loc>
+      <image:title>Gabrielle</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 1.jpg</image:loc>
+      <image:title>I Clown by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 2.jpg</image:loc>
+      <image:title>I Clown by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 3.jpg</image:loc>
+      <image:title>I Clown by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 4.jpg</image:loc>
+      <image:title>I Clown by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Katerina Smutok by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Katerina Smutok by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Katerina Smutok by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 4.jpg</image:loc>
+      <image:title>Katerina Smutok by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Mermaid by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Mermaid by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Mermaid by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 4.jpg</image:loc>
+      <image:title>Mermaid by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 5.jpg</image:loc>
+      <image:title>Mermaid by Elena Pirogova 5</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 6.jpg</image:loc>
+      <image:title>Mermaid by Elena Pirogova 6</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 1.jpg</image:loc>
+      <image:title>My Trousseau by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 2.jpg</image:loc>
+      <image:title>My Trousseau by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 3.jpg</image:loc>
+      <image:title>My Trousseau by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 4.jpg</image:loc>
+      <image:title>My Trousseau by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 5.jpg</image:loc>
+      <image:title>My Trousseau by Elena Pirogova 5</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 6.jpg</image:loc>
+      <image:title>My Trousseau by Elena Pirogova 6</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Thaisa.jpg</image:loc>
+      <image:title>Thaisa</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Una Burke AW2012 by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Una Burke AW2012 by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Una Burke AW2012 by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 4.jpg</image:loc>
+      <image:title>Una Burke AW2012 by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 4.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 5.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 5</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 6.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 6</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 7.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 7</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Zhanna.jpg</image:loc>
+      <image:title>Zhanna</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Alisa Khazanova.jpg</image:loc>
+      <image:title>Alisa Khazanova</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Anna Valerie Hash.jpg</image:loc>
+      <image:title>Anna Valerie Hash</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Anya Hindmarch.jpg</image:loc>
+      <image:title>Anya Hindmarch</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Bruno Frizoni.jpg</image:loc>
+      <image:title>Bruno Frizoni</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Candy Dulfer with saxophone.jpg</image:loc>
+      <image:title>Candy Dulfer with saxophone</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Candy Dulfer.jpg</image:loc>
+      <image:title>Candy Dulfer</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Cavalli Eva.jpg</image:loc>
+      <image:title>Cavalli Eva</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Cavalli Roberto closeup.jpg</image:loc>
+      <image:title>Cavalli Roberto closeup</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Cavalli Roberto.jpg</image:loc>
+      <image:title>Cavalli Roberto</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Cecilia Bonstrom.jpg</image:loc>
+      <image:title>Cecilia Bonstrom</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Christine D Ornano.jpg</image:loc>
+      <image:title>Christine D Ornano</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Claudio Silvestrin.jpg</image:loc>
+      <image:title>Claudio Silvestrin</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Doctor.jpg</image:loc>
+      <image:title>Doctor</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Doctor1.jpg</image:loc>
+      <image:title>Doctor1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Edward Capel Cure.jpg</image:loc>
+      <image:title>Edward Capel Cure</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Elie Saab.jpg</image:loc>
+      <image:title>Elie Saab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Giuseppe.jpg</image:loc>
+      <image:title>Giuseppe</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Ingeborga Dapkunaite.jpg</image:loc>
+      <image:title>Ingeborga Dapkunaite</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Jenson Button.jpg</image:loc>
+      <image:title>Jenson Button</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Julia Muggenburg Belmacz.jpg</image:loc>
+      <image:title>Julia Muggenburg Belmacz</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/K.jpg</image:loc>
+      <image:title>K</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/male.jpg</image:loc>
+      <image:title>male</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Maria Hatzistefanis.jpg</image:loc>
+      <image:title>Maria Hatzistefanis</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Matteo Marzotto.jpg</image:loc>
+      <image:title>Matteo Marzotto</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Paul Smith.jpg</image:loc>
+      <image:title>Paul Smith</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/Simonetta Ravizza.jpg</image:loc>
+      <image:title>Simonetta Ravizza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/yevgeniy.jpg</image:loc>
+      <image:title>yevgeniy</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/portraits/yevgeniy_.jpg</image:loc>
+      <image:title>yevgeniy_</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.e-pirogova.com/fashion.html</loc>
+    <lastmod>2015-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly 2.jpg</image:loc>
+      <image:title>Alexandra Jelly 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly 3.jpg</image:loc>
+      <image:title>Alexandra Jelly 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly 4.jpg</image:loc>
+      <image:title>Alexandra Jelly 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Alexandra Jelly.jpg</image:loc>
+      <image:title>Alexandra Jelly</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Anna Lee by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Anna Lee by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Anna Lee by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 4.jpg</image:loc>
+      <image:title>Anna Lee by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Anna Lee by Elena Pirogova 5.jpg</image:loc>
+      <image:title>Anna Lee by Elena Pirogova 5</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Annabelle 2.jpg</image:loc>
+      <image:title>Annabelle 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Annabelle.jpg</image:loc>
+      <image:title>Annabelle</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova .jpg</image:loc>
+      <image:title>Art Deco for HighLigts magazine by Elena Pirogova </image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Art Deco for HighLigts magazine by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Art Deco for HighLigts magazine by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Art Deco for HighLigts magazine by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Art Deco for HighLigts magazine by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Cabriolet by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Cabriolet by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Cabriolet by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Cabriolet by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Cabriolet by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Cabriolet by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Gabrielle 2.jpg</image:loc>
+      <image:title>Gabrielle 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Gabrielle.jpg</image:loc>
+      <image:title>Gabrielle</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 1.jpg</image:loc>
+      <image:title>I Clown by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 2.jpg</image:loc>
+      <image:title>I Clown by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 3.jpg</image:loc>
+      <image:title>I Clown by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/I Clown by Elena Pirogova 4.jpg</image:loc>
+      <image:title>I Clown by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Katerina Smutok by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Katerina Smutok by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Katerina Smutok by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Katerina Smutok by Elena Pirogova 4.jpg</image:loc>
+      <image:title>Katerina Smutok by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Mermaid by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Mermaid by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Mermaid by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 4.jpg</image:loc>
+      <image:title>Mermaid by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 5.jpg</image:loc>
+      <image:title>Mermaid by Elena Pirogova 5</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Mermaid by Elena Pirogova 6.jpg</image:loc>
+      <image:title>Mermaid by Elena Pirogova 6</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 1.jpg</image:loc>
+      <image:title>My Trousseau by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 2.jpg</image:loc>
+      <image:title>My Trousseau by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 3.jpg</image:loc>
+      <image:title>My Trousseau by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 4.jpg</image:loc>
+      <image:title>My Trousseau by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 5.jpg</image:loc>
+      <image:title>My Trousseau by Elena Pirogova 5</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/My Trousseau by Elena Pirogova 6.jpg</image:loc>
+      <image:title>My Trousseau by Elena Pirogova 6</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Thaisa.jpg</image:loc>
+      <image:title>Thaisa</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Una Burke AW2012 by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Una Burke AW2012 by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Una Burke AW2012 by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2012 by Elena Pirogova 4.jpg</image:loc>
+      <image:title>Una Burke AW2012 by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 1.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 2.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 3.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 4.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 5.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 5</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 6.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 6</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Una Burke AW2013 by Elena Pirogova 7.jpg</image:loc>
+      <image:title>Una Burke AW2013 by Elena Pirogova 7</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.e-pirogova.com/fashion/Zhanna.jpg</image:loc>
+      <image:title>Zhanna</image:title>
+    </image:image>
+  </url>
 
-  <url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Alisa Khazanova.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Alisa Khazanova.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Anna Valerie Hash.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Anna Valerie Hash.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Anya Hindmarch.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Anya Hindmarch.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Bruno Frizoni.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Bruno Frizoni.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Candy Dulfer with saxophone.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Candy Dulfer with saxophone.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Candy Dulfer.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Candy Dulfer.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Cavalli Eva.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Cavalli Eva.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Cavalli Roberto closeup.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Cavalli Roberto closeup.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Cavalli Roberto.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Cavalli Roberto.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Cecilia Bonstrom.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Cecilia Bonstrom.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Christine D Ornano.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Christine D Ornano.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Claudio Silvestrin.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Claudio Silvestrin.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Doctor.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Doctor.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Doctor1.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Doctor1.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Edward Capel Cure.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Edward Capel Cure.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Elie Saab.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Elie Saab.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Giuseppe.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Giuseppe.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Ingeborga Dapkunaite.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Ingeborga Dapkunaite.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Jenson Button.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Jenson Button.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Julia Muggenburg Belmacz.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Julia Muggenburg Belmacz.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/K.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/K.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/male.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/male.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Maria Hatzistefanis.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Maria Hatzistefanis.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Matteo Marzotto.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Matteo Marzotto.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Paul Smith.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Paul Smith.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/Simonetta Ravizza.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/Simonetta Ravizza.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/yevgeniy.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/yevgeniy.jpg</image:loc></image:image></url>
-<url><loc>http://www.e-pirogova.com/portraits.html</loc><image:image><image:loc>http://www.e-pirogova.com/portraits/yevgeniy_.jpg</image:loc></image:image><image:image><image:loc>http://www.e-pirogova.com/portraits/yevgeniy_.jpg</image:loc></image:image></url>
-
-
-  
-  
 </urlset>

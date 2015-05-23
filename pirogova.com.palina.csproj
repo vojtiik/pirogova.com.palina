@@ -44,8 +44,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="imagestore.html" />
     <Content Include="lazyload.html" />
-    <Content Include="images.html" />
     <Content Include="js\lazyload.js" />
     <Content Include="about.html" />
     <Content Include="js\jquery.ui.widget.1.11.2.min.js" />
