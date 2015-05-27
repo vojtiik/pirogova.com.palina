@@ -45,7 +45,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="imagestore.html" />
-    <Content Include="lazyload.html" />
     <Content Include="js\lazyload.js" />
     <Content Include="about.html" />
     <Content Include="js\jquery.ui.widget.1.11.2.min.js" />
@@ -68,13 +67,13 @@
     <Content Include="style\font\theanodidot-regular-webfont.svg" />
     <Content Include="style\gallery.css" />
     <Content Include="style\icons\facebook.png" />
-    <Content Include="style\icons\tumbler.png" />
+    <Content Include="style\icons\instagram.png" />
     <Content Include="style\icons\twitter.png" />
     <Content Include="style\reset.css" />
-    <Content Include="style\style - Copy.css" />
     <Content Include="style\style.css" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="e-pirogova to gallery tags.linq" />
     <None Include="style\font\amble-bold-webfont.eot" />
     <None Include="style\font\amble-bold-webfont.ttf" />
     <None Include="style\font\amble-bold-webfont.woff" />
