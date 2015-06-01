@@ -1,6 +1,6 @@
 
-var images = document.getElementsByClassName("galleryitem");
-var gallery = document.getElementById('gallery');
+var images = document.getElementsByClassName('galleryImage');
+var gallery = document.getElementById('scroll');
 var isScrolled = false;
 
 gallery.onscroll = function() {
@@ -13,7 +13,7 @@ function onWindowScroll() {
         var scrollLeft = gallery.pageXOffset ? gallery.pageXOffset : gallery.scrollLeft ? gallery.scrollLeft : 0;
         for (var i = 0; i < images.length; i++)
             if (scrollLeft + document.documentElement.clientWidth - images[i].offsetLeft > 0)
-                images[i].className = images[i].className.replace("lazyImg");
+                images[i].className = images[i].className.replace('lazyImg','');
     }
 }
 

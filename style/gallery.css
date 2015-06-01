@@ -1,13 +1,24 @@
-﻿.fakescroller, .scrollercaption {
-    float: left;
-    margin-left: 1%;
+﻿.scrolls {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    height: 642px;
+    white-space: nowrap;
 }
 
-.scrollercaption 
-{
-   text-align: center;
-   display:inline-block;
+.galleryitem {
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 10px;
 }
+
+.caption {
+    float: left;
+}
+
+.galleryImage {
+    margin-top: 24px;
+}
+
 
 .gallery {
     margin-top: 10px;
@@ -31,31 +42,23 @@
 }
 
 .galleryWrapper {
- height: 600px;
-    padding-bottom: 9px;
-    padding-top: 30px;
+    padding-top: 15px;
 }
 
-.captionWrapper {
-   height: 17px;
-    padding-bottom: 10px;
+
+::-webkit-scrollbar {
+    width: 12px;
 }
 
-.scrollleft {
-    height: 600px;
-    width: 40%;
-    z-index: 100;
-    position: absolute;
-    background: url(../style/background/transparent.gif) repeat;
-	cursor:pointer;
+::-webkit-scrollbar-track {
+    background-color: #eaeaea;
+    border-left: 1px solid #ccc;
 }
 
-.scrollright {
-    height: 600px;
-    width: 40%;
-    margin-left: 60%;
-    z-index: 100;
-    position: absolute;
-    background: url(../style/background/transparent.gif) repeat;
-	cursor:pointer;
+::-webkit-scrollbar-thumb {
+    background-color: #ccc;
 }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background-color: #aaa;
+    }
