@@ -44,6 +44,67 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="fashion\Alexandra Jelly 2.jpg" />
+    <Content Include="fashion\Alexandra Jelly 3.jpg" />
+    <Content Include="fashion\Alexandra Jelly 4.jpg" />
+    <Content Include="fashion\Alexandra Jelly.jpg" />
+    <Content Include="fashion\Anna Lee by Elena Pirogova 1.jpg" />
+    <Content Include="fashion\Anna Lee by Elena Pirogova 2.jpg" />
+    <Content Include="fashion\Anna Lee by Elena Pirogova 3.jpg" />
+    <Content Include="fashion\Anna Lee by Elena Pirogova 4.jpg" />
+    <Content Include="fashion\Anna Lee by Elena Pirogova 5.jpg" />
+    <Content Include="fashion\Annabelle 2.jpg" />
+    <Content Include="fashion\Annabelle.jpg" />
+    <Content Include="fashion\Art Deco for HighLigts magazine by Elena Pirogova .jpg" />
+    <Content Include="fashion\Art Deco for HighLigts magazine by Elena Pirogova 1.jpg" />
+    <Content Include="fashion\Art Deco for HighLigts magazine by Elena Pirogova 2.jpg" />
+    <Content Include="fashion\Art Deco for HighLigts magazine by Elena Pirogova 3.jpg" />
+    <Content Include="fashion\Cabriolet by Elena Pirogova 1.jpg" />
+    <Content Include="fashion\Cabriolet by Elena Pirogova 2.jpg" />
+    <Content Include="fashion\Cabriolet by Elena Pirogova 3.jpg" />
+    <Content Include="fashion\Gabrielle 2.jpg" />
+    <Content Include="fashion\Gabrielle.jpg" />
+    <Content Include="fashion\I Clown by Elena Pirogova 1.jpg" />
+    <Content Include="fashion\I Clown by Elena Pirogova 2.jpg" />
+    <Content Include="fashion\I Clown by Elena Pirogova 3.jpg" />
+    <Content Include="fashion\I Clown by Elena Pirogova 4.jpg" />
+    <Content Include="fashion\Katerina Smutok by Elena Pirogova 1.jpg" />
+    <Content Include="fashion\Katerina Smutok by Elena Pirogova 2.jpg" />
+    <Content Include="fashion\Katerina Smutok by Elena Pirogova 3.jpg" />
+    <Content Include="fashion\Katerina Smutok by Elena Pirogova 4.jpg" />
+    <Content Include="fashion\Mermaid by Elena Pirogova 1.jpg" />
+    <Content Include="fashion\Mermaid by Elena Pirogova 2.jpg" />
+    <Content Include="fashion\Mermaid by Elena Pirogova 3.jpg" />
+    <Content Include="fashion\Mermaid by Elena Pirogova 4.jpg" />
+    <Content Include="fashion\Mermaid by Elena Pirogova 5.jpg" />
+    <Content Include="fashion\Mermaid by Elena Pirogova 6.jpg" />
+    <Content Include="fashion\My Trousseau by Elena Pirogova 1.jpg" />
+    <Content Include="fashion\My Trousseau by Elena Pirogova 2.jpg" />
+    <Content Include="fashion\My Trousseau by Elena Pirogova 3.jpg" />
+    <Content Include="fashion\My Trousseau by Elena Pirogova 4.jpg" />
+    <Content Include="fashion\My Trousseau by Elena Pirogova 5.jpg" />
+    <Content Include="fashion\My Trousseau by Elena Pirogova 6.jpg" />
+    <Content Include="fashion\Nadia Borovikova AW2015 A2387.jpg" />
+    <Content Include="fashion\Nadia Borovikova AW2015 A2441.jpg" />
+    <Content Include="fashion\Nadia Borovikova AW2015 A2518.jpg" />
+    <Content Include="fashion\Nadia Borovikova AW2015 A2554.jpg" />
+    <Content Include="fashion\Nadia Borovikova AW2015 A2589.jpg" />
+    <Content Include="fashion\Nadia Borovikova AW2015 A2632.jpg" />
+    <Content Include="fashion\Nadia Borovikova AW2015 A2783.jpg" />
+    <Content Include="fashion\Nadia Borovikova AW2015 A2808.jpg" />
+    <Content Include="fashion\Thaisa.jpg" />
+    <Content Include="fashion\Una Burke AW2012 by Elena Pirogova 1.jpg" />
+    <Content Include="fashion\Una Burke AW2012 by Elena Pirogova 2.jpg" />
+    <Content Include="fashion\Una Burke AW2012 by Elena Pirogova 3.jpg" />
+    <Content Include="fashion\Una Burke AW2012 by Elena Pirogova 4.jpg" />
+    <Content Include="fashion\Una Burke AW2013 by Elena Pirogova 1.jpg" />
+    <Content Include="fashion\Una Burke AW2013 by Elena Pirogova 2.jpg" />
+    <Content Include="fashion\Una Burke AW2013 by Elena Pirogova 3.jpg" />
+    <Content Include="fashion\Una Burke AW2013 by Elena Pirogova 4.jpg" />
+    <Content Include="fashion\Una Burke AW2013 by Elena Pirogova 5.jpg" />
+    <Content Include="fashion\Una Burke AW2013 by Elena Pirogova 6.jpg" />
+    <Content Include="fashion\Una Burke AW2013 by Elena Pirogova 7.jpg" />
+    <Content Include="fashion\Zhanna.jpg" />
     <Content Include="imagestore.html" />
     <Content Include="js\lazyload.js" />
     <Content Include="about.html" />
@@ -88,7 +149,6 @@
     <None Include="style\font\theanodidot-regular-webfont.woff" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="fashion\" />
     <Folder Include="portraits\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
