@@ -53,8 +53,6 @@
     <Content Include="fashion\Anna Lee by Elena Pirogova 3.jpg" />
     <Content Include="fashion\Anna Lee by Elena Pirogova 4.jpg" />
     <Content Include="fashion\Anna Lee by Elena Pirogova 5.jpg" />
-    <Content Include="fashion\Annabelle 2.jpg" />
-    <Content Include="fashion\Annabelle.jpg" />
     <Content Include="fashion\Art Deco for HighLigts magazine by Elena Pirogova .jpg" />
     <Content Include="fashion\Art Deco for HighLigts magazine by Elena Pirogova 1.jpg" />
     <Content Include="fashion\Art Deco for HighLigts magazine by Elena Pirogova 2.jpg" />
@@ -62,8 +60,6 @@
     <Content Include="fashion\Cabriolet by Elena Pirogova 1.jpg" />
     <Content Include="fashion\Cabriolet by Elena Pirogova 2.jpg" />
     <Content Include="fashion\Cabriolet by Elena Pirogova 3.jpg" />
-    <Content Include="fashion\Gabrielle 2.jpg" />
-    <Content Include="fashion\Gabrielle.jpg" />
     <Content Include="fashion\I Clown by Elena Pirogova 1.jpg" />
     <Content Include="fashion\I Clown by Elena Pirogova 2.jpg" />
     <Content Include="fashion\I Clown by Elena Pirogova 3.jpg" />
@@ -92,6 +88,14 @@
     <Content Include="fashion\Nadia Borovikova AW2015 A2632.jpg" />
     <Content Include="fashion\Nadia Borovikova AW2015 A2783.jpg" />
     <Content Include="fashion\Nadia Borovikova AW2015 A2808.jpg" />
+    <Content Include="fashion\Nigel Preston &amp; Knight 1.jpg" />
+    <Content Include="fashion\Nigel Preston &amp; Knight 2.jpg" />
+    <Content Include="fashion\Nigel Preston &amp; Knight 3.jpg" />
+    <Content Include="fashion\Nigel Preston &amp; Knight 4.jpg" />
+    <Content Include="fashion\Nigel Preston &amp; Knight Annabelle 2.jpg" />
+    <Content Include="fashion\Nigel Preston &amp; Knight Annabelle.jpg" />
+    <Content Include="fashion\Nigel Preston &amp; Knight Gabrielle 2.jpg" />
+    <Content Include="fashion\Nigel Preston &amp; Knight Gabrielle.jpg" />
     <Content Include="fashion\Thaisa.jpg" />
     <Content Include="fashion\Una Burke AW2012 by Elena Pirogova 1.jpg" />
     <Content Include="fashion\Una Burke AW2012 by Elena Pirogova 2.jpg" />
@@ -118,8 +122,38 @@
     <Content Include="js\jquery.ui.widget.js" />
     <Content Include="js\pirogova.gallery.loader.js" />
     <Content Include="js\pirogova.web.loader.js" />
+    <Content Include="portraits\Alisa Khazanova.jpg" />
+    <Content Include="portraits\Anna Valerie Hash.jpg" />
+    <Content Include="portraits\Anya Hindmarch.jpg" />
+    <Content Include="portraits\Bruno Frizoni.jpg" />
+    <Content Include="portraits\Candy Dulfer with saxophone.jpg" />
+    <Content Include="portraits\Candy Dulfer.jpg" />
+    <Content Include="portraits\Cavalli Eva.jpg" />
+    <Content Include="portraits\Cavalli Roberto closeup.jpg" />
+    <Content Include="portraits\Cavalli Roberto.jpg" />
+    <Content Include="portraits\Cecilia Bonstrom.jpg" />
+    <Content Include="portraits\Christine D Ornano.jpg" />
+    <Content Include="portraits\Claudio Silvestrin.jpg" />
+    <Content Include="portraits\Doctor.jpg" />
+    <Content Include="portraits\Doctor1.jpg" />
+    <Content Include="portraits\Edward Capel Cure.jpg" />
+    <Content Include="portraits\Elie Saab.jpg" />
+    <Content Include="portraits\Giuseppe.jpg" />
+    <Content Include="portraits\Ingeborga Dapkunaite.jpg" />
+    <Content Include="portraits\Jenson Button.jpg" />
+    <Content Include="portraits\Julia Muggenburg Belmacz.jpg" />
+    <Content Include="portraits\K.jpg" />
+    <Content Include="portraits\male.jpg" />
+    <Content Include="portraits\Maria Hatzistefanis.jpg" />
+    <Content Include="portraits\Matteo Marzotto.jpg" />
+    <Content Include="portraits\Paul Smith.jpg" />
+    <Content Include="portraits\Simonetta Ravizza.jpg" />
+    <Content Include="portraits\yevgeniy.jpg" />
+    <Content Include="portraits\yevgeniy_.jpg" />
     <Content Include="robots.txt" />
-    <Content Include="sitemap.xml" />
+    <Content Include="sitemap.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="style\background\transparent.gif" />
     <Content Include="style\font\amble-bold-webfont.svg" />
     <Content Include="style\font\fonts.css" />
@@ -148,9 +182,7 @@
     <None Include="style\font\theanodidot-regular-webfont.ttf" />
     <None Include="style\font\theanodidot-regular-webfont.woff" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="portraits\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
