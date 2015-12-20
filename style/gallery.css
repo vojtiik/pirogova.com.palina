@@ -1,8 +1,11 @@
-﻿.scrolls {
+
+.scrolls {
     overflow-x: scroll;
     overflow-y: hidden;
     height: 642px;
     white-space: nowrap;
+    scroll-behavior: auto;
+    scroll-behavior: smooth;
 }
 
 .galleryitem {
