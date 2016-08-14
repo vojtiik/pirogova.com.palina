@@ -43,8 +43,20 @@
          url('quicksand_light-webfont.svg#quicksandlight') format('svg');
     font-weight: normal;
     font-style: normal;
+}
+
+@font-face {
+    font-family: 'corbertregular';
+    src: url('Corbert-Regular-webfont.eot');
+    src: url('Corbert-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Corbert-Regular-webfont.woff') format('woff'),
+         url('Corbert-Regular-webfont.ttf') format('truetype'),
+         url('Corbert-Regular-webfont.svg#corbertregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
 }
+
 
 .logoEP { font-family: 'robotobold_condensed'; font-size: 37px; color : #acacac}
 .logoPhotography { font-family: 'quicksandlight'; font-size: 17px;color : #acacac}
@@ -54,5 +66,4 @@
 .fashionTextFont { font-family: 'theano_didotregular'; font-size: 17px; color : #acacac}
 .portraitsTextFont { font-family: 'quicksandlight'; font-size: 17px; color : #acacac}
 .aboutTextFont { font-family: 'amblebold'; font-size: 14px}
-
-
+.videoLabelFont { font-family: 'corbertregular'; font-size: 53px}
